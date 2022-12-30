@@ -6,10 +6,10 @@ install:
 
 ```bash
 # for yarn
-yarn add -D vite-plugin-ejs-loader
+yarn add -D vite-plugin-ejs-importer
 
 # for npm
-npm install -D vite-plugin-ejs-loader
+npm install -D vite-plugin-ejs-importer
 ```
 
 usage:
