@@ -5,6 +5,7 @@
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
 	"license": "MIT",
+	"homepage": "https://github.com/MichealPearce/vite-plugin-ejs-importer#readme",
 	"files": [
 		"dist"
 	],
@@ -14,7 +15,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:MichealPearce/vite-plugin-ejs-importer.git"
+		"url": "https://github.com/MichealPearce/vite-plugin-ejs-importer.git"
+	},
+	"bugs": {
+		"url": "https://github.com/MichealPearce/vite-plugin-ejs-importer/issues"
 	},
 	"scripts": {
 		"build": "tsc"
