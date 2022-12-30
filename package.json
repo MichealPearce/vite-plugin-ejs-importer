@@ -1,0 +1,18 @@
+{
+	"name": "vite-plugin-ejs-importer",
+	"packageManager": "yarn@3.3.0",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"build": "tsc"
+	},
+	"dependencies": {
+		"ejs": "^3.1.8"
+	},
+	"devDependencies": {
+		"@types/ejs": "^3.1.1",
+		"@types/node": "^18.11.18",
+		"typescript": "^4.9.4",
+		"vite": "^4.0.3"
+	}
+}
