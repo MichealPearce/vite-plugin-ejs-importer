@@ -4,6 +4,10 @@
 	"packageManager": "yarn@3.3.0",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
+	"author": {
+		"name": "Micheal Pearce",
+		"email": "michealpearce@outlook.com"
+	},
 	"repository": {
 		"type": "git",
 		"url": "git@github.com:MichealPearce/vite-plugin-ejs-importer.git"
