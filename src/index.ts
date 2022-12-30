@@ -4,6 +4,7 @@ import type { Plugin } from 'vite'
 export function VitePluginEJSImporter(): Plugin {
 	return {
 		name: 'vite-plugin-ejs-importer',
+		enforce: 'pre',
 		async load(id) {
 			if (!id.endsWith('.ejs')) return
 
